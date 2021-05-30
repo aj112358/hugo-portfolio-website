@@ -1,0 +1,4 @@
+[submodule "my_first_website/public"]
+	path = my_first_website/public
+	url = https://github.com/aj112358/aj112358.github.io
+	branch = main
