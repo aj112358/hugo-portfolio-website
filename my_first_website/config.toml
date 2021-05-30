@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 removePathAccents = true
 
 # Theme specific examples
-author = "AJ Singh"
+author = "Sebastian Pech"
 copyright = "Sebastian Pech"
 # googleAnalytics = "UA-123-45"
 enableRobotsTXT = true
@@ -64,7 +64,7 @@ theme="flex-bp-hugo-cv"
 # Code from https://themes.gohugo.io/future-imperfect/ theme
 [social]
   # Coding Communities
-  github           = "spech66"
+  github           = "aj112358"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -77,15 +77,15 @@ theme="flex-bp-hugo-cv"
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
-  medium           = ""
+  medium           = "aj112358"
   # Professional/Business Oriented Communities
-  linkedin         = "sebastian-pech"
+  linkedin         = "aj-singh-41699954"
   linkedin_company = ""
   foursquare       = ""
   xing             = "Sebastian_Pech3"
   slideshare       = ""
   # Social Networks
-  facebook         = "spechde" # https://fb.me/flowartsde
+  facebook         = "" # https://fb.me/flowartsde
   googleplus       = ""
   reddit           = ""
   quora            = ""
@@ -101,7 +101,7 @@ theme="flex-bp-hugo-cv"
   telegram         = ""
   discord          = "" # invite link
   # Email
-  email            = ""
+  email            = "singa@ucalgary.ca"
 
 
 [menu]
